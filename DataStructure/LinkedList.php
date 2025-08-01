@@ -1,5 +1,4 @@
 <?php
-/*structure example*/
 $a = new stdClass();
 $a->name = "Test";
 $a->ref = null;
