@@ -23,3 +23,12 @@ $series = [0];
 fibaonacci($times,$series);
 echo 'Series: '.PHP_EOL;
 echo implode(',',$series);
+
+/*
+Sample result
+-------------
+Enter how many fibaonacci numbers needed: 8
+Entered series count: 8
+Series:
+0,1,1,2,3,5,8,13
+*/
